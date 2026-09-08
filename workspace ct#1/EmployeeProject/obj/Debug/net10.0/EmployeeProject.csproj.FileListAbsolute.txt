@@ -1,0 +1,28 @@
+C:\Users\misarry\Desktop\workspace\EmployeeProject\bin\Debug\net10.0\EmployeeProject.exe
+C:\Users\misarry\Desktop\workspace\EmployeeProject\bin\Debug\net10.0\EmployeeProject.deps.json
+C:\Users\misarry\Desktop\workspace\EmployeeProject\bin\Debug\net10.0\EmployeeProject.runtimeconfig.json
+C:\Users\misarry\Desktop\workspace\EmployeeProject\bin\Debug\net10.0\EmployeeProject.dll
+C:\Users\misarry\Desktop\workspace\EmployeeProject\bin\Debug\net10.0\EmployeeProject.pdb
+C:\Users\misarry\Desktop\workspace\EmployeeProject\obj\Debug\net10.0\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misarry\Desktop\workspace\EmployeeProject\obj\Debug\net10.0\EmployeeProject.AssemblyInfoInputs.cache
+C:\Users\misarry\Desktop\workspace\EmployeeProject\obj\Debug\net10.0\EmployeeProject.AssemblyInfo.cs
+C:\Users\misarry\Desktop\workspace\EmployeeProject\obj\Debug\net10.0\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\misarry\Desktop\workspace\EmployeeProject\obj\Debug\net10.0\EmployeeProject.dll
+C:\Users\misarry\Desktop\workspace\EmployeeProject\obj\Debug\net10.0\refint\EmployeeProject.dll
+C:\Users\misarry\Desktop\workspace\EmployeeProject\obj\Debug\net10.0\EmployeeProject.pdb
+C:\Users\misarry\Desktop\workspace\EmployeeProject\obj\Debug\net10.0\EmployeeProject.genruntimeconfig.cache
+C:\Users\misarry\Desktop\workspace\EmployeeProject\obj\Debug\net10.0\ref\EmployeeProject.dll
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\bin\Debug\net10.0\EmployeeProject.exe
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\bin\Debug\net10.0\EmployeeProject.deps.json
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\bin\Debug\net10.0\EmployeeProject.runtimeconfig.json
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\bin\Debug\net10.0\EmployeeProject.dll
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\bin\Debug\net10.0\EmployeeProject.pdb
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\obj\Debug\net10.0\EmployeeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\obj\Debug\net10.0\EmployeeProject.AssemblyInfoInputs.cache
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\obj\Debug\net10.0\EmployeeProject.AssemblyInfo.cs
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\obj\Debug\net10.0\EmployeeProject.csproj.CoreCompileInputs.cache
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\obj\Debug\net10.0\EmployeeProject.dll
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\obj\Debug\net10.0\refint\EmployeeProject.dll
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\obj\Debug\net10.0\EmployeeProject.pdb
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\obj\Debug\net10.0\EmployeeProject.genruntimeconfig.cache
+C:\Users\misarry\Desktop\workspace ct#1\EmployeeProject\obj\Debug\net10.0\ref\EmployeeProject.dll
